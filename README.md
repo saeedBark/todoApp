@@ -1,8 +1,8 @@
 # todo
 
-I build a full flutter App, Using Local Database using SQFlte:
+I build a full flutter App, Using Local Database using SQLite:
 
-*By Using SQFlite Package with :-
+*By Using SQLite Package with :-
 
 - create Database.
 
